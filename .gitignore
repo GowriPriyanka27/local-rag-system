@@ -1,0 +1,4 @@
+env/
+faiss_index.bin
+documents.json
+__pycache__/
